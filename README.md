@@ -19,5 +19,12 @@ This project helped me understand:
 - using Python's math module  
 - debugging and error handling  
 
-### How to run:
+# Run This Project
+
+You can run this calculator directly in GitHub Codespaces:
+
+1. Click on "Code" "Create codespace on main
+
+2. Once the codespace opens, rurs
+
 python calculator.py
